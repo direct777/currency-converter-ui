@@ -32,3 +32,4 @@ docker build -t currency-converter-ui .
 ```
 docker run -p 8081:8081 currency-converter-ui
 ```
+![image](https://github.com/user-attachments/assets/fca6c74b-a547-498f-978f-8e6b30453f58)
